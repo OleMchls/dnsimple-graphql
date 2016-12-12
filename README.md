@@ -5,12 +5,7 @@
   * Install dependencies with `mix deps.get`
   * Start Phoenix endpoint with `mix phoenix.server`
 
-## Start the client (graphiql)
-  * Go into the client directory `cd client`
-  * Install the dependencies `npm install`
-  * Start any webserver to access the `index.html`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Now you can visit [`localhost:4050/client`](http://localhost:4050/client) from your browser.
 
 ## Learn more
 
